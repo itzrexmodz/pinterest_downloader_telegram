@@ -6,3 +6,5 @@ urllib3
 requests
 pymongo
 dnspython
+flask
+flask_restful
